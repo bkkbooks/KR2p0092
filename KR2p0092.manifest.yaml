@@ -16,9 +16,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR2p0092_001.yaml, hash: 'sha256:a1018a7ab06512dcfe0407c5e949525da480f1ff17cd90aca55d8f0029dfb9ae'}
+  - {seq: 1, filename: KR2p0092_001.yaml, hash: 'sha256:ce7cc047350dc7e66536998a92ae9ec870b2dc99e40a7d77091643a2f5f02d21'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR2p0092_001.markers.yaml, hash: 'sha256:97c1b6c87ad6c6a3f16257c8f63e45e766a441a6c437a5beae39e54df8519e33'}
+  - {seq: 1, role: markers, filename: assets/KR2p0092_001.markers.yaml, hash: 'sha256:1396383628ea037fa33d07d8ad8ce1c9dcd00e73b57bcfb19ce1cff07291d1bf'}
 table_of_contents:
 - ref:
     seq: 1
@@ -30,7 +30,4 @@ table_of_contents:
   label: 馬王堆漢墓帛書陰陽脈死候釋文
   type: section
   level: 1
-hash: sha256:460fa645556851d9976e8d82361d197d2a3249cb26eafe18303b34b277e44783
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:efcf99279ce64129dabfd7ed1d5658d276efe890dd2d7f145234fb7b2dd9a2c9
