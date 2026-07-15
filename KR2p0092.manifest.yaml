@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR2p0092/v1
 canonical_location: https://kanripo.org/bkk/KR2p0092/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 陰陽脈死候釋文
   identifiers:
@@ -16,9 +16,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR2p0092_001.yaml, hash: 'sha256:ce7cc047350dc7e66536998a92ae9ec870b2dc99e40a7d77091643a2f5f02d21'}
+  - {seq: 1, filename: KR2p0092_001.yaml, hash: 'sha256:a1018a7ab06512dcfe0407c5e949525da480f1ff17cd90aca55d8f0029dfb9ae'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR2p0092_001.markers.yaml, hash: 'sha256:1396383628ea037fa33d07d8ad8ce1c9dcd00e73b57bcfb19ce1cff07291d1bf'}
+  - {seq: 1, role: markers, filename: assets/KR2p0092_001.markers.yaml, hash: 'sha256:a7dff797e49e395a2cf96db03cb338b20eba7dd95500e7fc64bb141ec2eca05a'}
 table_of_contents:
 - ref:
     seq: 1
@@ -30,4 +30,7 @@ table_of_contents:
   label: 馬王堆漢墓帛書陰陽脈死候釋文
   type: section
   level: 1
-hash: sha256:efcf99279ce64129dabfd7ed1d5658d276efe890dd2d7f145234fb7b2dd9a2c9
+hash: sha256:f482d098aa1fe6a82e7d62caa7014163bdc09c4a09215002d55a6a6098c38da5
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
